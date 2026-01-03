@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/kavin-krishnan-vigneswaran-99bb27374">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
-  </a>
 </div>
 
 ###

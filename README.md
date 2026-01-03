@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kavin-krishnan">
+  <a href="https://www.linkedin.com/in/kavin-krishnan-vigneswaran-99bb27374">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://twitter.com/">
@@ -21,17 +21,16 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey, thanks for checking out my profile! 😊</h1>
 
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm Kavin, a Software Engineering student from India.<br><br>
+I'm Kavin, a Software Engineering student from VIT,Vellore.<br><br>
 - 🔭 I enjoy building backend systems, data pipelines, and AI-powered applications<br>
-- 📚 Currently exploring distributed systems, scalable backend design, and LLM-based architectures<br>
-- ⚡ In my free time, I experiment with new ideas, break things, and rebuild them better
+- 📚 Currently exploring distributed systems, scalable backend design, and LLM-based architectures
 </p>
 
 ###
